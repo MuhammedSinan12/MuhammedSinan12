@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.tenor.com/DUS7rOHhrREAAAAC/naruto-anime.gif">
+  </div>
+
 - 👋 Hi, I’m @MuhammedSinan12
 - 👀 I’m interested in developing Native Flutter App
 - 🌱 I’m currently learning Flutter App Development
