@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/DUS7rOHhrREAAAAC/naruto-anime.gif">
+  <img src="https://media.tenor.com/B45pUMzNF1IAAAAC/obito.gif">
   </div>
 
 - 👋 Hi, I’m @MuhammedSinan12
